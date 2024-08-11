@@ -5,7 +5,7 @@ const HomePage = () => {
     <div className="hero min-h-screen bg-base-300">
       <div className="hero-content text-center">
         <div className="max-w-md">
-          <h1 className="text-8xl font-bold text-primary">Femto AI</h1>
+          <h1 className="text-8xl font-bold text-primary">FemtoAI</h1>
           <p className="py-6 text-lg leading-loose">
             Welcome to Femto AI, your AI language companion. Powered by OpenAI
           </p>
